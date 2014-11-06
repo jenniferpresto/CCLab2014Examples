@@ -1,0 +1,2 @@
+##CCLab 2014: openFrameworks Code Examples
+Download this folder into the myApps folder within the openFrameworks folder. You can also put it at a folder at the same level. If you are on a Mac, these should run as-is.
