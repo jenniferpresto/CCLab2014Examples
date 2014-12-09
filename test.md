@@ -1,1 +1,0 @@
-This is a dummy file. It serves no purpose.
